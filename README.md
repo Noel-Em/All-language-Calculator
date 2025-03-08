@@ -17,7 +17,7 @@ Variables, conditions, loops and functions
 - [ ] Lua  
 - [ ] Perl  
 - [ ] PHP  
-- [ ] Python  
+- [x] Python  
 - [ ] Ruby  
 - [ ] Rust  
 - [x] TypeScript  
