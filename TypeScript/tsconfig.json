@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "target": "ES2021",  // Updated to ES2021 or later
+      "module": "CommonJS",
+      "esModuleInterop": true,
+      "forceConsistentCasingInFileNames": true,
+      "strict": true,
+      "skipLibCheck": true,
+      "lib": ["ES2021"]  // Add this line to include ES2021 library
+    }
+  }

@@ -12,7 +12,7 @@ Variables, conditions, loops and functions
 - [ ] Dart  
 - [ ] Go  
 - [ ] Java  
-- [ ] JavaScript  
+- [x] JavaScript  
 - [ ] Kotlin  
 - [ ] Lua  
 - [ ] Perl  
@@ -20,4 +20,4 @@ Variables, conditions, loops and functions
 - [ ] Python  
 - [ ] Ruby  
 - [ ] Rust  
-- [ ] TypeScript  
+- [x] TypeScript  
